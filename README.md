@@ -2,6 +2,8 @@
 
 Recipe to build [`gaomd/ikev2-vpn-server`](https://registry.hub.docker.com/u/gaomd/ikev2-vpn-server/) Docker image.
 
+Fix MTU bugs.
+
 ## Usage
 
 ### 1. Start the IKEv2 VPN Server
